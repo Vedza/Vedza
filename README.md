@@ -2,7 +2,7 @@
 
 I'm Quentin, french 3rd year student at Epitech :raised_hands: 
 
-🔭 I’m currently working on school project
+🔭 I’m currently working on school projects
 
 ### :zap: Recent Activity
 
