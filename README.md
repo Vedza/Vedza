@@ -7,11 +7,11 @@ I'm Quentin, french 3rd year student at Epitech :raised_hands:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//Vedzaa/ReactNativeCalculator/pull/2) in [Vedzaa/ReactNativeCalculator](https://github.com//Vedzaa/ReactNativeCalculator)
-2. 🎉 Merged PR [#1](https://github.com//Vedzaa/ReactNativeCalculator/pull/1) in [Vedzaa/ReactNativeCalculator](https://github.com//Vedzaa/ReactNativeCalculator)
-3. 🗣 Commented on [#15](https://github.com//Vedzaa/NitroSniperGo/issues/15) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
-4. ❗️ Closed issue [#17](https://github.com//Vedzaa/NitroSniperGo/issues/17) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
-5. 🗣 Commented on [#17](https://github.com//Vedzaa/NitroSniperGo/issues/17) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
+1. ❗️ Closed issue [#18](https://github.com//Vedzaa/NitroSniperGo/issues/18) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
+2. 🗣 Commented on [#19](https://github.com//Vedzaa/NitroSniperGo/issues/19) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
+3. 🗣 Commented on [#19](https://github.com//Vedzaa/NitroSniperGo/issues/19) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
+4. 🗣 Commented on [#18](https://github.com//Vedzaa/NitroSniperGo/issues/18) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
+5. 🗣 Commented on [#18](https://github.com//Vedzaa/NitroSniperGo/issues/18) in [Vedzaa/NitroSniperGo](https://github.com//Vedzaa/NitroSniperGo)
 <!--END_SECTION:activity-->
 
 
