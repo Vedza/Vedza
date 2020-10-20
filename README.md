@@ -17,4 +17,4 @@ I'm Quentin, french 3rd year student at Epitech :raised_hands:
 
 ### 📈 Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vedzaa&show_icons=false&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vedza&show_icons=false&theme=dark)
