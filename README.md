@@ -7,10 +7,10 @@ I'm Quentin, french 3rd year student at Epitech :raised_hands:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/Vedza/NitroSniperGo/issues/31) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-2. 🗣 Commented on [#31](https://github.com/Vedza/NitroSniperGo/issues/31) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-3. 🗣 Commented on [#23](https://github.com/Vedzaa/NitroSniperGo/issues/23) in [Vedzaa/NitroSniperGo](https://github.com/Vedzaa/NitroSniperGo)
-4. 🗣 Commented on [#23](https://github.com/Vedzaa/NitroSniperGo/issues/23) in [Vedzaa/NitroSniperGo](https://github.com/Vedzaa/NitroSniperGo)
+1. ❗️ Closed issue [#32](https://github.com/Vedza/NitroSniperGo/issues/32) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
+2. 🗣 Commented on [#32](https://github.com/Vedza/NitroSniperGo/issues/32) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
+3. ❗️ Closed issue [#31](https://github.com/Vedza/NitroSniperGo/issues/31) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
+4. 🗣 Commented on [#31](https://github.com/Vedza/NitroSniperGo/issues/31) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
 5. 🗣 Commented on [#23](https://github.com/Vedzaa/NitroSniperGo/issues/23) in [Vedzaa/NitroSniperGo](https://github.com/Vedzaa/NitroSniperGo)
 <!--END_SECTION:activity-->
 
