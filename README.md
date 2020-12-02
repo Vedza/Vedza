@@ -7,11 +7,11 @@ I'm Quentin, french 3rd year student at Epitech :raised_hands:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#48](https://github.com/Vedza/NitroSniperGo/issues/48) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-2. 🗣 Commented on [#48](https://github.com/Vedza/NitroSniperGo/issues/48) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-3. 🗣 Commented on [#47](https://github.com/Vedza/NitroSniperGo/issues/47) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-4. ❗️ Closed issue [#47](https://github.com/Vedza/NitroSniperGo/issues/47) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
-5. 🗣 Commented on [#47](https://github.com/Vedza/NitroSniperGo/issues/47) in [Vedza/NitroSniperGo](https://github.com/Vedza/NitroSniperGo)
+1. ❗️ Closed issue [#2](https://github.com/Jobseer/Jobseer/issues/2) in [Jobseer/Jobseer](https://github.com/Jobseer/Jobseer)
+2. ❗️ Closed issue [#3](https://github.com/Jobseer/Jobseer/issues/3) in [Jobseer/Jobseer](https://github.com/Jobseer/Jobseer)
+3. ❗️ Opened issue [#4](https://github.com/Jobseer/Jobseer/issues/4) in [Jobseer/Jobseer](https://github.com/Jobseer/Jobseer)
+4. ❗️ Opened issue [#3](https://github.com/Jobseer/Jobseer/issues/3) in [Jobseer/Jobseer](https://github.com/Jobseer/Jobseer)
+5. ❗️ Opened issue [#2](https://github.com/Jobseer/Jobseer/issues/2) in [Jobseer/Jobseer](https://github.com/Jobseer/Jobseer)
 <!--END_SECTION:activity-->
 
 
