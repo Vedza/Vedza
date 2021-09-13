@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm Quentin, french 3rd year student at Epitech :raised_hands: 
-
-🔭 I’m currently working on school projects
-
+I'm Quentin, french 4th year student at Epitech & ULaval 🇨🇦 🇫🇷
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
