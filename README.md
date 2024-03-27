@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Quentin, french 5th year student at Epitech 🇫🇷
+I'm Quentin, french backend engineer 🇫🇷
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
